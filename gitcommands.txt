@@ -1,0 +1,12 @@
+//iniatliase git repository
+git init
+git config --global user.email "rdrahul666@gmail.com"
+git config --global user.name "rahul0392"
+
+//Configure git for github
+
+
+//to make the local repo aware of changes
+git add gitcommands.txt
+//commit the changes in local repository
+git commit
